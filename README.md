@@ -1,0 +1,1 @@
+Arch + Hyprland dark rice
